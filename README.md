@@ -1,2 +1,2 @@
 # learnGit
-###this repo is for learning Git and Github
+### this repo is for learning Git and Github
